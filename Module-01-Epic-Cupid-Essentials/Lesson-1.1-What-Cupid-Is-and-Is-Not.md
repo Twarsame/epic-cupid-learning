@@ -15,6 +15,13 @@ By the end of this lesson, I can:
 - Explain Cupid's role in the broader Epic ecosystem
 
 ---
+## 📊 Visual Overview
+
+![Epic Cupid Overview Infographic](assets/lesson-1.1/cupid-is-is-not-infographic.png)
+*Figure 1: Comprehensive overview of Epic Cupid capabilities and limitations*
+
+
+---
 
 ## 📖 Key Concepts
 
@@ -79,6 +86,9 @@ By the end of this lesson, I can:
 ---
 
 ## 🔄 Cupid's Role in the Epic Ecosystem
+![Integration Architecture](assets/lesson-1.1/cupid-integration-architecture.png)
+*Figure 2: Epic Cupid integration points with PACS, modalities, and other Epic modules*
+
 
 ```
 ┌─────────────────────────────────────────────────────┐
@@ -105,7 +115,10 @@ By the end of this lesson, I can:
                                  │  • Radiant (Rad) │
                                  └──────────────────┘
 ```
+## 🏥 Supported Cardiovascular Workflows
 
+![Workflow Diagram](assets/lesson-1.1/cupid-workflow-overview.png)
+*Figure 3: Order-to-report workflow across cardiovascular subspecialties*
 ---
 
 ## ✅ Knowledge Check Results
