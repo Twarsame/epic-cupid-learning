@@ -91,14 +91,26 @@ Feel free to reach out if you’re exploring a similar path or would like to dis
 
 ## 📄 License
 
-This project is licensed under the **MIT License** – see the `LICENSE` file for details.
+# Copyright Notice
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+**Copyright © 2025 Tahlil A. Warsame | All Rights Reserved**
 
 ---
 
-_Last updated: November 16, 2025_
 
 
-This project is licensed under the MIT License - see LICENSE file for details.
+
+
+
+
+
+
+
+
+
+
 
 ---
 
