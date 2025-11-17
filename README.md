@@ -99,19 +99,4 @@ Feel free to reach out if you’re exploring a similar path or would like to dis
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
 *Last Updated: November 16, 2025*
